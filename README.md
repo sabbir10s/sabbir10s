@@ -1,9 +1,7 @@
 <!-- Welcome Message-->
 <h1>Hey! I'm Sabbir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-- 💻 Jr. Front-End Web Developer
-- 📫 Email sabbirahmed1023@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saminravi99&label=Profile%20views&color=E4405F&style=flat" alt="sabbir10s" /> </p>
+Front-end developer specializing in React.js, JavaScript (ES6), CSS3, HTML5. I am eager to learn new things for updating and spreading my knowledge. I want to work with any renowned team, company or organization.
 
 ## Connect with Me
 
