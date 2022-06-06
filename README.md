@@ -1,10 +1,8 @@
 <!-- Welcome Message-->
 <h1>Hey! I'm Sabbir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-- 💻 Jr. MERN Stack Web Developer
-- 🌱 I’m currently learning Full Stack Web Development at Programming Hero
-- ⚡ I love learning new technologies
-- 📫 Email saminisrar1@gmail.com
+- 💻 Jr. Front-End Web Developer
+- 📫 Email sabbirahmed1023@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saminravi99&label=Profile%20views&color=E4405F&style=flat" alt="sabbir10s" /> </p>
 
 ## Connect with Me
