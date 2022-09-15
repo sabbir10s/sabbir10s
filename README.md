@@ -2,8 +2,10 @@
 
 ## Hi 👋, I'm Sabbir Ahmed!
 
-Front-end developer specializing in React.js, JavaScript (ES6), CSS3, HTML5. I am eager to learn new things for updating and spreading my knowledge. I want to work with any renowned team, company or organization.
-
+I am a curious learner. I love to explore new features related to Programming and Development. I completed some
+MERN stack projects which are fully dynamic & responsive. Recently I worked with a team called M.M.A Developers.
+Where I contribute to building up an online event scheduling website. I want to work with a team or a company to
+build up my career as a Front End Developer.
 ## Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sabbir10s/)
