@@ -1,11 +1,8 @@
 <!-- Welcome Message-->
 
-## Hi 👋, I'm Sabbir Ahmed!
+<h1 align="center">Hi 👋, I'm Sabbir</h1>
+<h3 align="center">A curious learner & passionate frontend developer</h3>
 
-I am a curious learner. I love to explore new features related to Programming and Development. I completed some
-MERN stack projects which are fully dynamic & responsive. Recently I worked with a team called M.M.A Developers.
-Where I contribute to building up an online event scheduling website. I want to work with a team or a company to
-build up my career as a Front End Developer.
 ## Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sabbir10s/)
