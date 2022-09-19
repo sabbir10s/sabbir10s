@@ -1,7 +1,7 @@
 <!-- Welcome Message-->
 
 <h1 align="center">Hi 👋, I'm Sabbir</h1>
-<h3 align="center">A curious learner & passionate frontend developer</h3>
+<h3 align="center">A curious learner & passionate Front End Developer</h3>
 
 ## Connect with Me
 
